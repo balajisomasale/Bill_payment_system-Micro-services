@@ -70,9 +70,6 @@ this.form=this.fb.group({
 
   confirmPassword: ['', [Validators.required,
     this.matchConfirmPassword.bind(this)]],
-
-
-
 })
 }
     
