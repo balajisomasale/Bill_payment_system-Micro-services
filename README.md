@@ -4,7 +4,7 @@ Full Stack project
 ## The Final Updated Project is named as Third-change <br>
 Access Here:=> https://github.com/balajisomasale/Bill_payment_system-Micro-services/tree/master/third-change
 
-I suggest Please run the Project// use "npm install" ... To get the node_modules.. Due to Size Constraint, It was excluded.
+Suggestion : Please run the Project// use "npm install" ... To get the node_modules.. Due to Size Constraint, It was excluded.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
 
 ## Development server
