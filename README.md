@@ -9,7 +9,7 @@
 --> Angular is expected to run on 4200 port 
 
 
-````````````
+``
 
 ## Steps to Execute
 
@@ -23,8 +23,7 @@ Step 3: Run the bill-payment-system-service => Port: 1002 => https://github.com/
 
 Step 4: Run the Zuul-gateway-truyum >Port: 1004  => https://github.com/balajisomasale/Bill_payment_system-Micro-services/tree/master/zuul-gateway-truyum
 
-
-````
+``
 
 ![Description of portals](https://github.com/balajisomasale/Bill_payment_system-Micro-services/blob/master/bill%20payment%20images/portals_description%20(2).png)
 
