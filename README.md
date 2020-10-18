@@ -1,10 +1,14 @@
 # Bill_payment_system-Micro-services
 Full Stack project
 
-Visual workflow gif format => ![](Login_to_payment.gif)
+
 
 ## The Final Updated Project is named as Third-change <br>
 Access Here:=> https://github.com/balajisomasale/Bill_payment_system-Micro-services/tree/master/third-change
+
+
+## Visual project workflow gif format :
+![](Login_to_payment.gif)
 
 Suggestion : Please run the Project// use "npm install" ... To get the node_modules.. Due to Size Constraint, It was excluded.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
