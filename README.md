@@ -1,6 +1,7 @@
 # Bill_payment_system-Micro-services
 Full Stack project
-![](bill payment images/portals_description.png)
+![Description of portals](https://github.com/balajisomasale/Bill_payment_system-Micro-services/blob/master/bill%20payment%20images/portals_description.png)
+
 
 
 ## The Final Updated Project is named as Third-change <br>
