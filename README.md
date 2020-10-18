@@ -1,5 +1,15 @@
 # Bill_payment_system-Micro-services => A Full Stack ( Java + Spring + Hibernate + SQL + Angular ) : 
 
+## Visual project workflow gif format :
+![](Login_to_payment.gif)
+
+
+## Functionalities of different portals in Bill payment system
+
+
+![Description of portals](https://github.com/balajisomasale/Bill_payment_system-Micro-services/blob/master/bill%20payment%20images/portals_description%20(2).png)
+
+
 
 
 ## Ports and other details:
@@ -9,7 +19,7 @@
 --> Angular is expected to run on 4200 port 
 
 
-``
+```
 
 ## Steps to Execute
 
@@ -23,18 +33,14 @@ Step 3: Run the bill-payment-system-service => Port: 1002 => https://github.com/
 
 Step 4: Run the Zuul-gateway-truyum >Port: 1004  => https://github.com/balajisomasale/Bill_payment_system-Micro-services/tree/master/zuul-gateway-truyum
 
-``
-
-![Description of portals](https://github.com/balajisomasale/Bill_payment_system-Micro-services/blob/master/bill%20payment%20images/portals_description%20(2).png)
-
+```
 
 
 ## The Final Updated Project is named as Third-change <br>
 Angular part :: Access here :=> https://github.com/balajisomasale/Bill_payment_system-Micro-services/tree/master/third-change
-Backend part :: follow the steps => 
+Backend part :: follow the steps 
 
-## Visual project workflow gif format :
-![](Login_to_payment.gif)
+
 
 Suggestion : Please run the Project// use "npm install" ... To get the node_modules.. Due to Size Constraint, It was excluded.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.3.3.
