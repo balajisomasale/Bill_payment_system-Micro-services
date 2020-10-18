@@ -1,6 +1,6 @@
 # Bill_payment_system-Micro-services
 Full Stack project
-![Description of portals](https://github.com/balajisomasale/Bill_payment_system-Micro-services/blob/master/bill%20payment%20images/portals_description.png)
+![Description of portals](https://github.com/balajisomasale/Bill_payment_system-Micro-services/blob/master/bill%20payment%20images/portals_description%20(2).png)
 
 
 
