@@ -1,6 +1,8 @@
 # Bill_payment_system-Micro-services
 Full Stack project
 
+Visual workflow gif format => ![](Login_to_payment.gif)
+
 ## The Final Updated Project is named as Third-change <br>
 Access Here:=> https://github.com/balajisomasale/Bill_payment_system-Micro-services/tree/master/third-change
 
